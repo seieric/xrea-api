@@ -1,4 +1,4 @@
-require_relative 'lib/xrea/api/version'
+require_relative 'lib/xrea/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "xrea-api"

@@ -1,4 +1,4 @@
-require "xrea/api/version"
+require "xrea/version"
 
 module XreaAPI
   class Error < StandardError; end
