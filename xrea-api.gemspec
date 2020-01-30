@@ -2,7 +2,7 @@ require_relative 'lib/xrea/api/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "xrea-api"
-  spec.version       = Xrea::Api::VERSION
+  spec.version       = XreaAPI::VERSION
   spec.authors       = ["seieric"]
   spec.email         = ["30688855+seieric@users.noreply.github.com"]
 
